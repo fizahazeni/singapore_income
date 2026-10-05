@@ -195,7 +195,7 @@ singapore-income-databricks/
 
 ## 🙏 Acknowledgements
 
-Data provided by the Singapore government's open data initiative. Built as a personal learning project on Databricks.
+Data provided by the data.gov.sg link: https://data.gov.sg/datasets?query=iras&resultId=271. Built as a personal learning project on Databricks.
 
 <div align="center">
 
