@@ -197,8 +197,3 @@ singapore-income-databricks/
 
 Data provided by the data.gov.sg link: https://data.gov.sg/datasets?query=iras&resultId=271. Built as a personal learning project on Databricks.
 
-<div align="center">
-
-**If you found this useful, give it a ⭐**
-
-</div>
